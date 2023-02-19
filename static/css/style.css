@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(190, 224, 219);
+  }
+  
+.panel {
+    background-color: rgb(233, 233, 232)
+}
+
+.well {
+    background-color: rgb(200, 240, 232;
+}
+
+#sample-metadata {
+    font-family: "Roboto" ;
+    font-weight: bold;
+    color: rgb(8, 7, 8);
+    font-size: 20px
+}
+
+.col-md-12 {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: rgb(27, 26, 26);
+    font-size: 20px
+}
+
+.panel-title {
+    font-family: "Roboto";
+    color: rgb(28, 27, 26);
+    font-size: 15px
+};
